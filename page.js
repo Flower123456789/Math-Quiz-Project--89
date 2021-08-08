@@ -29,7 +29,8 @@ function send(){
     document.getElementById("number2").value = "";
 }
 
-
+answer_turn = "player1";
+question_turn = "player2";
 
 
 function check(){
